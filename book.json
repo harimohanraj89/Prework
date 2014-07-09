@@ -10,9 +10,7 @@
             "twitter": false
         }
     },
-    "plugins": [
-        "ga"
-    ],
+    "plugins": ["ga"],
     "pluginsConfig": {
         "ga": {
             "token": "UA-51625418-3"
