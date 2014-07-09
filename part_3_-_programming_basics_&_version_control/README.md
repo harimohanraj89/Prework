@@ -8,4 +8,4 @@ Think about learning a programming language like learning a foreign language: th
 
 <br><br>
 
-![Computer](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/hello-world-in-C-by-Pcbots.jpg)
+![Computer](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/hello-world-in-C.jpg)
