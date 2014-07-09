@@ -9,5 +9,13 @@
             "facebook": false,
             "twitter": false
         }
+    },
+    "plugins": [
+        "ga"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-51625418-3"
+        }
     }
 }
