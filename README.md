@@ -11,3 +11,6 @@ As mentioned in your welcome email, you will have 2 check-ins: the first is to s
 
 Please reach out to your course producer if you have any questions about anything or need help.  **Happy coding** and get ready to be immersed for 12 straight weeks!
 
+<br><br>
+
+![WDI Logo](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/WDI-Logo.png)
