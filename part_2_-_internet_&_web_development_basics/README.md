@@ -6,4 +6,4 @@ HTML and CSS are the face of the internet: it's what people see in their browser
 
 <br><br>
 
-![Computer](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/7530f10-wordle2.png)
+![Computer](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/49443-how-the-world-wide-web-works-illustration.jpeg)
