@@ -6,4 +6,4 @@ Most web developers, including our instructional team, use Macs to do their deve
 
 <br><br>
 
-![macbook air](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/macbook-air-gallery5-2014.png)
+![macbook air](https://raw.githubusercontent.com/generalassembly-wdi/Prework/master/assets/macbook-air-gallery5-2014.jpg)
