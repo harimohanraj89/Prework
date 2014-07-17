@@ -6,7 +6,7 @@ Now we'll dig deeper into programming with a full-featured language: Ruby! It's 
 
 - [Code School - Try Ruby](http://tryruby.org/) - A short, fun interactive tutorial online.
 - [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby) - Please work through these sections.
-- [Code School - Ruby Bits](http://www.codecademy.com/tracks/ruby-bits) - Levels 1-3
+- [Code School - Ruby Bits](https://www.codeschool.com/courses/ruby-bits) - Levels 1-3
 
 ###Assess Yourself:
 
